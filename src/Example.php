@@ -1,6 +1,6 @@
 <?php
 
-namespace ExampleProject;
+namespace AcquiaDrushAliases;
 
 class Example
 {
